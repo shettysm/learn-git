@@ -1,0 +1,2 @@
+for directcommit in branch:
+                 print "direct commit"
